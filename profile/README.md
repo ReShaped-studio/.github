@@ -1,10 +1,10 @@
-# Reshaped
+# ReShaped
 
-Reshaped is an open-source design studio building better interfaces for public-facing services.
+ReShaped is an open-source design studio building better interfaces for public-facing services.
 
 ## What we build
 
-Most design systems are dictionaries: here is a button, here is a card. Reshaped is a grammar. It defines not just what the pieces are, but how they relate and compose.
+Most design systems are dictionaries: here is a button, here is a card. ReShaped is a grammar. It defines not just what the pieces are, but how they relate and compose.
 
 That grammar has three parts:
 
@@ -28,11 +28,11 @@ We welcome contributions to the object library, the design system, and the redes
 
 ## Projects
 
-| Repo | Description | Status |
-|---|---|---|
-| [objects](https://github.com/reshaped-studio/objects) | OOUX object library | Active |
-| [shapes](https://github.com/reshaped-studio/shapes) | Design system | Active |
-| [usajobs](https://github.com/reshaped-studio/usajobs) | USAJobs redesign | In progress |
+| Repo                                                  | Description         | Status      |
+| ----------------------------------------------------- | ------------------- | ----------- |
+| [objects](https://github.com/reshaped-studio/objects) | OOUX object library | Active      |
+| [shapes](https://github.com/reshaped-studio/shapes)   | Design system       | Active      |
+| [usajobs](https://github.com/reshaped-studio/usajobs) | USAJobs redesign    | In progress |
 
 ---
 
